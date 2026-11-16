@@ -1,0 +1,2 @@
+- 使用Sol 6.1 Xhigh 生成（主力）
+- 最后优化使用Astra 6 Xhigh（效果明显高于Sol 6.1，Sol 6.1 做不来）
